@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.ul{
+    display: flex;
+    
+    justify-content: end;
+    font-size: 30px;
+    padding: 0px;
+text-decoration: none;
+color: rgb(215, 250, 215);
+
+
+    list-style-type: none;
+    
+  }
+   link {
+    text-decoration: none;
+   }
+  .link li{
+    justify-content: right;
+    list-style-type: none;
+    text-decoration: none;
+    color: antiquewhite;
+    justify-content: flex-end;
+      display: flex;
+      flex-wrap: wrap;
+    
+    font-size: 30;
+  }
+  .yellow{
+    background-color: sienna;
+    text-decoration: none;
+  }
+  
+ 
+.l{
+    border-radius: 4cm;
+    background-color: red;
+}
+.front { 
+  list-style: none;
+  justify-content:space-evenly;
+   font-size: 40;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  } 
+   
+
+.front span{
+    color: rgb(241, 8, 8);
+    font-style: bold;
+font-family: 'dancing script', cursive;   
+}
+
+.main{
+    display: flex;
+    justify-content:space-evenly;
+ 
+    font-size: 40;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+  .jobs{
+    background-color: #f0660a;
+    
+    color: red;
+  }
+    
+   .tour{
+    background-position-x: center;
+    color: rgb(232, 232, 236);
+   } 
+    .culture{
+      color: black;
+    }
+  
+  body {
+    
+    
+    font-size: 14px;
+
+    border-top: 1px solid rgb(232, 233, 235);
+    
+    background-color: rgb(41, 46, 46);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   }
+   .flex-container {background-color: #e69900;
+   
+    height: 200px;
+    align-items: flex-start;
+  }
+  .button {
+
+    background-color: green;
+    color: #ffb81e;
+    border: 1px solid #1e5aff;
+    padding: 5px;
+  }
+  .button a:hover{
+    background-size: 50;
+    background-color: #e69900;
+    color: #8f47b3;
+  }
+  :root {
+    --main-color: hotpink;
+    --pane-padding: 5px 42px;
+  }
+  .link a:hover {
+    background-color: yellow;
+    color: red;
+
+  }
+  .wrapper{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+  }
+  /* experiment*/
+   /* experiment*/
+    /* experiment*/
+    /* experiment*/
+     /* experiment*/
+      /* experiment*/
+  .circle{
+   position:relative;
+    width: 200px;
+    height: 200px;
+    border: rgb(235, 232, 232) solid 30px;
+    border-radius: 50%;
+    
+  color: rgb(94, 91, 91);
+  border-radius: 50%;
+ 
+  }
+  .circle-data{
+ position: inherit;
+  position: relative;
+  }
+  button{
+    background-color: #f0660a;
+    border-radius: 10%;
+    width: 20%;
+    height: 10%;
+    font-size: 30;
+  }
+  h1{
+    color: #f0660a;
+    font-size: 20;
+  }
+  p{
+    color: #4CAF50;
+  }
+  .cicle1{
+    position: relative;
+  position: inherit;
+  }
